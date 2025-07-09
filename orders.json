@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Vishwajeet",
+    "email": "meow@gmail.com",
+    "phone": "1234567890",
+    "pincode": "343434",
+    "address": "Meow Nagar",
+    "payment": "Cash on Delivery",
+    "cart": [
+      {
+        "name": "ESP Horizon FR7",
+        "price": 275000,
+        "quantity": 1
+      },
+      {
+        "name": "Schecter Hellraiser",
+        "price": 89500,
+        "quantity": 1
+      },
+      {
+        "name": "ESP Arrow 200",
+        "price": 91200,
+        "quantity": 1
+      }
+    ]
+  }
+]
