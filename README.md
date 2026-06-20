@@ -12,7 +12,7 @@ GuitarVerse is a simple guitar e-commerce website built using HTML, CSS, JavaScr
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/guitar-verse.git
+git clone https://github.com/vishwajeet717/guitar-verse.git
 
 2. Install dependencies:
 npm install
